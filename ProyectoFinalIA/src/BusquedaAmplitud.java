@@ -16,6 +16,7 @@ public class BusquedaAmplitud {
     private ArrayList visitados;
     private ArrayList caminos;
     private ArrayList colaNodos;
+    
 
     public BusquedaAmplitud() {
         this.visitados = new ArrayList();
